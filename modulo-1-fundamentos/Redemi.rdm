@@ -1,0 +1,33 @@
+# Visão Geral de Estruturas de Dados
+
+-1 #O Que Sera Estruturas De Dados
+
+    As estruturas de dados, serve para Organizar e Adminitrar,
+    os dados recolidos para .
+    # EXXPLO NA VIDA REAL =>{
+        
+        Uma lista de alunos aprovados ela tem uma estruturasde dados por a uma organizaçao,
+        do primeiro aprovado ao ultimo né.
+
+       A fila do um Banco é uma estrutura , 
+       do tipo  #FIFO é sigla em ingles para "First In First Out", "primeiro a entra , primeiro a sair",
+       não so Banco mais tem alguma empresa de carregamento que usa o FIFO,
+
+        Uma pilha de livros tambem temos um tipo
+        estrutura chamada #LIFO é sigla em ingles para "Last In First Out", "Ultimo a entra , primeiro a sair"
+
+
+    }
+    # MAIS EXEPLOS =>{
+        TABELAS,
+        INTERO,
+        REAL,
+        LETRA,
+        BOOLEANDO, VERDADEIRO OU FALSO
+    }
+
+
+-2 # vareaveis e constantes
+
+    
+
