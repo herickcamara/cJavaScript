@@ -1,6 +1,6 @@
 <h1> cJavaScript</h1>
-<h2>Curso JavaScript</h2>
-Estarei subindo um curso completo de JavaScript
+<h2>JavaScript course</h2>
+I will be uploading a full JavaScript course
 
 
-<H1>Emproduçao</H1>
+<H1>In production</H1>
